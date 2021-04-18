@@ -1,0 +1,25 @@
+{
+  "name": "Clippy",
+  "version": "1.0.1",
+  "description": "Clipboard developed using Electron Js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "rebuild": "electron-rebuild"
+  },
+  "repository": "https://github.com/morozovsk/unlimited-clipboard",
+  "author": "Shubham Latiyan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.2.5",
+    "electron-builder": "^22.6.0",
+    "electron-rebuild": "^1.8.5",
+    "electron-reloader": "^1.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "dexie": "^3.0.0",
+    "electron-settings": "^4.0.2"
+  }
+}

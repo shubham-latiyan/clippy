@@ -1,3 +1,3 @@
 # clippy
 
-Simple Clipboard Manager written in Electron Js
+Simple Clipboard Manager developed using Electron Js
